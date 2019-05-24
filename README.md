@@ -3,6 +3,8 @@ Library [![Build Status](https://travis-ci.org/nytimes/library.svg?branch=master
 
 A collaborative newsroom documentation site, powered by Google Docs.
 
+DGS Deployment of Library for the department's paperless initiative: http://dgs-paperless-initiative.herokuapp.com
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
